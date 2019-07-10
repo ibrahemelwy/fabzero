@@ -1,0 +1,6 @@
+echo Hello This GIT BOT
+git pull 
+git add .
+git commit -m "UpDated By BOTs"
+git push
+echo Done! Good Bye ! 
